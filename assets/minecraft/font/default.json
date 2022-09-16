@@ -11,5 +11,83 @@
 		"ascent": 8,
 		"height": 9,
 		"chars": ["\uAAE1"]
-	}]
+	},{
+                "type": "bitmap",
+                "file": "minecraft:custom/developer.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE2"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/headadmin.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE3"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/admin.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE4"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/junioradmin.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE5"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/mod.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE6"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/juniormod.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE7"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/helper.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE8"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/juniorhelper.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAE9"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/god.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAF0"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/mvp.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAF1"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/expert.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAF2"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/pro.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAF3"]
+        },{
+                "type": "bitmap",
+                "file": "minecraft:custom/member.png",
+                "ascent": 8,
+                "height": 9,
+                "chars": ["\uAAF4"]
+        }]
 }
